@@ -171,6 +171,8 @@ w6.web.whatsapp.com
 w7.web.whatsapp.com
 w8.web.whatsapp.com
 wss.whatsapp.net
+account.ring.com
+ring.com
 discord.com
 discord.gg
 discord.media
@@ -186,4 +188,5 @@ zoom.us
 threema.ch
 ds-apip.threema.ch
 ds-blobp-24.threema.ch
+
 ds.g-86.0.threema.ch
